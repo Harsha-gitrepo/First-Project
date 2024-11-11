@@ -1,4 +1,4 @@
-package org.example;
+package stringPrograms;
 
 public class reverseStringUsingIterativeMethod {
     public static void main(String[] args) {
